@@ -1,0 +1,1401 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The 2022 FIA Formula One World Championship
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Description
+BEGIN:VEVENT
+UID:d4cfa17b-fb1f-475b-b4c6-7fcddc2382e9
+DTSTART:20220225T080000
+DTEND:20220225T170000
+CREATED:20220421T082418
+DESCRIPTION:Get up to speed with everything you need to know about 2022's pre-season track session, which takes place at the 4.675-kilometre Circuit de Barcelona-Catalunya - home of the Spanish Grand Prix - over three days on February 23-25, in preparation for this year’s official pre-season test in Bahrain on March 10-12.Using the links above you can find the full track schedule, plus the latest news headlines, circuit information and daily reports.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Pre-Season Track Session 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd194a70-cb9f-4ab7-bc48-de97834e2a2d
+DTSTART:20220224T080000
+DTEND:20220224T170000
+CREATED:20220421T082418
+DESCRIPTION:Get up to speed with everything you need to know about 2022's pre-season track session, which takes place at the 4.675-kilometre Circuit de Barcelona-Catalunya - home of the Spanish Grand Prix - over three days on February 23-25, in preparation for this year’s official pre-season test in Bahrain on March 10-12.Using the links above you can find the full track schedule, plus the latest news headlines, circuit information and daily reports.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Pre-Season Track Session 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab468290-5060-4097-abf4-7d6f53ba713b
+DTSTART:20220223T080000
+DTEND:20220223T170000
+CREATED:20220421T082418
+DESCRIPTION:Get up to speed with everything you need to know about 2022's pre-season track session, which takes place at the 4.675-kilometre Circuit de Barcelona-Catalunya - home of the Spanish Grand Prix - over three days on February 23-25, in preparation for this year’s official pre-season test in Bahrain on March 10-12.Using the links above you can find the full track schedule, plus the latest news headlines, circuit information and daily reports.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Pre-Season Track Session 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aec66ca-6233-4761-a1ed-b983fd7d5c58
+DTSTART:20221113T180000
+DTEND:20221113T200000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Sao Paulo Grand Prix, which takes place over 71 laps of the 4.309-kilometre Autodromo Jose Carlos Pace in Brazil on Sunday, November 13.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Brazilian Grand Prix schedule to your mobile device.
+LOCATION:Autódromo José Carlos Pace
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Heineken Grande Prêmio De São Paulo 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c5ab9f-8364-4edf-81bc-a809e75e871e
+DTSTART:20221112T193000
+DTEND:20221112T203000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Sao Paulo Grand Prix, which takes place over 71 laps of the 4.309-kilometre Autodromo Jose Carlos Pace in Brazil on Sunday, November 13.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Brazilian Grand Prix schedule to your mobile device.
+LOCATION:Autódromo José Carlos Pace
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Sprint) - Formula 1 Heineken Grande Prêmio De São Paulo 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:23eb3dc7-1ccf-466a-9f08-20dfe9188af4
+DTSTART:20221112T153000
+DTEND:20221112T163000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Sao Paulo Grand Prix, which takes place over 71 laps of the 4.309-kilometre Autodromo Jose Carlos Pace in Brazil on Sunday, November 13.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Brazilian Grand Prix schedule to your mobile device.
+LOCATION:Autódromo José Carlos Pace
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Heineken Grande Prêmio De São Paulo 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7be1a852-594a-426c-8ace-fc3e6523e596
+DTSTART:20221111T190000
+DTEND:20221111T200000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Sao Paulo Grand Prix, which takes place over 71 laps of the 4.309-kilometre Autodromo Jose Carlos Pace in Brazil on Sunday, November 13.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Brazilian Grand Prix schedule to your mobile device.
+LOCATION:Autódromo José Carlos Pace
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Heineken Grande Prêmio De São Paulo 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c21e1a8-5616-41e6-bf8a-c14c9ef5ba56
+DTSTART:20221111T153000
+DTEND:20221111T163000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Sao Paulo Grand Prix, which takes place over 71 laps of the 4.309-kilometre Autodromo Jose Carlos Pace in Brazil on Sunday, November 13.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Brazilian Grand Prix schedule to your mobile device.
+LOCATION:Autódromo José Carlos Pace
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Heineken Grande Prêmio De São Paulo 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3568f632-203f-43c9-a129-44b6e196d9af
+DTSTART:20221120T130000
+DTEND:20221120T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Abu Dhabi Grand Prix, which takes place over 58 laps of the 5.281-kilometre Yas Marina Circuit on Yas Island on Sunday, November 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Abu Dhabi Grand Prix schedule to your mobile device.
+LOCATION:Yas Marina Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b89a2519-b7f2-4d76-b31c-d4076e7b7492
+DTSTART:20221119T140000
+DTEND:20221119T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Abu Dhabi Grand Prix, which takes place over 58 laps of the 5.281-kilometre Yas Marina Circuit on Yas Island on Sunday, November 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Abu Dhabi Grand Prix schedule to your mobile device.
+LOCATION:Yas Marina Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:21b9f4f3-61c8-4489-9f75-523f8721fbd5
+DTSTART:20221119T110000
+DTEND:20221119T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Abu Dhabi Grand Prix, which takes place over 58 laps of the 5.281-kilometre Yas Marina Circuit on Yas Island on Sunday, November 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Abu Dhabi Grand Prix schedule to your mobile device.
+LOCATION:Yas Marina Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b096316b-08cd-4232-ba9c-b6374037c5c3
+DTSTART:20221118T130000
+DTEND:20221118T140000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Abu Dhabi Grand Prix, which takes place over 58 laps of the 5.281-kilometre Yas Marina Circuit on Yas Island on Sunday, November 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Abu Dhabi Grand Prix schedule to your mobile device.
+LOCATION:Yas Marina Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:da457937-2dd3-415c-a735-d116ba20854d
+DTSTART:20221118T100000
+DTEND:20221118T110000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Abu Dhabi Grand Prix, which takes place over 58 laps of the 5.281-kilometre Yas Marina Circuit on Yas Island on Sunday, November 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Abu Dhabi Grand Prix schedule to your mobile device.
+LOCATION:Yas Marina Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b77ecf-2976-46af-840a-26b6566df37c
+DTSTART:20220911T130000
+DTEND:20220911T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Italian Grand Prix, which takes place over 53 laps of the 5.793-kilometre Autodromo Nazionale Monza on Sunday, September 11.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Italian Grand Prix schedule to your mobile device.
+LOCATION:Autodromo Nazionale Monza
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Pirelli Gran Premio D’Italia 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e2091c35-146c-4a57-9e36-145bf683318e
+DTSTART:20220910T140000
+DTEND:20220910T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Italian Grand Prix, which takes place over 53 laps of the 5.793-kilometre Autodromo Nazionale Monza on Sunday, September 11.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Italian Grand Prix schedule to your mobile device.
+LOCATION:Autodromo Nazionale Monza
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Pirelli Gran Premio D’Italia 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9e8fdb-8851-4a0d-9d83-ea6331b4d573
+DTSTART:20220910T110000
+DTEND:20220910T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Italian Grand Prix, which takes place over 53 laps of the 5.793-kilometre Autodromo Nazionale Monza on Sunday, September 11.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Italian Grand Prix schedule to your mobile device.
+LOCATION:Autodromo Nazionale Monza
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Pirelli Gran Premio D’Italia 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0cdc8a3-0153-48e7-aaea-4156d2d615af
+DTSTART:20220909T150000
+DTEND:20220909T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Italian Grand Prix, which takes place over 53 laps of the 5.793-kilometre Autodromo Nazionale Monza on Sunday, September 11.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Italian Grand Prix schedule to your mobile device.
+LOCATION:Autodromo Nazionale Monza
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Pirelli Gran Premio D’Italia 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d6bc6407-0741-4b7e-a661-913e75b37cb2
+DTSTART:20220909T120000
+DTEND:20220909T130000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Italian Grand Prix, which takes place over 53 laps of the 5.793-kilometre Autodromo Nazionale Monza on Sunday, September 11.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Italian Grand Prix schedule to your mobile device.
+LOCATION:Autodromo Nazionale Monza
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Pirelli Gran Premio D’Italia 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8edffe-1525-49b4-aa6f-7ef7b000c951
+DTSTART:20221023T190000
+DTEND:20221023T210000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 United States Grand Prix, which takes place over 56 laps of the 5.513-kilometre Circuit of The Americas in Austin on Sunday, October 23*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 United States Grand Prix schedule to your mobile device.*Subject to contract
+LOCATION:Circuit of The Americas
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Aramco United States Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:89bffe8c-52d9-4943-be65-d48d658f2999
+DTSTART:20221022T220000
+DTEND:20221022T230000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 United States Grand Prix, which takes place over 56 laps of the 5.513-kilometre Circuit of The Americas in Austin on Sunday, October 23*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 United States Grand Prix schedule to your mobile device.*Subject to contract
+LOCATION:Circuit of The Americas
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Aramco United States Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf57661-1cbf-4cf4-981c-c09c3ef82b25
+DTSTART:20221022T190000
+DTEND:20221022T200000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 United States Grand Prix, which takes place over 56 laps of the 5.513-kilometre Circuit of The Americas in Austin on Sunday, October 23*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 United States Grand Prix schedule to your mobile device.*Subject to contract
+LOCATION:Circuit of The Americas
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Aramco United States Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb98d083-de57-4247-b02c-792e161650a4
+DTSTART:20221021T220000
+DTEND:20221021T230000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 United States Grand Prix, which takes place over 56 laps of the 5.513-kilometre Circuit of The Americas in Austin on Sunday, October 23*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 United States Grand Prix schedule to your mobile device.*Subject to contract
+LOCATION:Circuit of The Americas
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Aramco United States Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1017232-f144-4cb8-b6b2-0f38a8f34999
+DTSTART:20221021T190000
+DTEND:20221021T200000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 United States Grand Prix, which takes place over 56 laps of the 5.513-kilometre Circuit of The Americas in Austin on Sunday, October 23*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 United States Grand Prix schedule to your mobile device.*Subject to contract
+LOCATION:Circuit of The Americas
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Aramco United States Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:df359cdb-844e-4b3d-a427-78fee675f36e
+DTSTART:20221002T120000
+DTEND:20221002T140000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Singapore Grand Prix, which takes place over 61 laps of the 5.063-kilometre Marina Bay Street Circuit on Sunday, October 2.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Singapore Grand Prix schedule to your mobile device.
+LOCATION:Marina Bay Street Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Singapore Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e406d89f-4308-4432-915d-8a7d38c33212
+DTSTART:20221001T130000
+DTEND:20221001T140000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Singapore Grand Prix, which takes place over 61 laps of the 5.063-kilometre Marina Bay Street Circuit on Sunday, October 2.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Singapore Grand Prix schedule to your mobile device.
+LOCATION:Marina Bay Street Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Singapore Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f9043e6-a5be-43c6-8a07-5894539fb67d
+DTSTART:20221001T100000
+DTEND:20221001T110000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Singapore Grand Prix, which takes place over 61 laps of the 5.063-kilometre Marina Bay Street Circuit on Sunday, October 2.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Singapore Grand Prix schedule to your mobile device.
+LOCATION:Marina Bay Street Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Singapore Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:905f819e-8cda-453d-a294-b670597cd6d5
+DTSTART:20220930T130000
+DTEND:20220930T140000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Singapore Grand Prix, which takes place over 61 laps of the 5.063-kilometre Marina Bay Street Circuit on Sunday, October 2.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Singapore Grand Prix schedule to your mobile device.
+LOCATION:Marina Bay Street Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Singapore Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:54574769-c4e1-4b3d-aaad-fb3e8c9d726b
+DTSTART:20220930T100000
+DTEND:20220930T110000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Singapore Grand Prix, which takes place over 61 laps of the 5.063-kilometre Marina Bay Street Circuit on Sunday, October 2.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Singapore Grand Prix schedule to your mobile device.
+LOCATION:Marina Bay Street Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Singapore Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:755083a8-2d20-4aaa-8079-5ab368369abd
+DTSTART:20221030T200000
+DTEND:20221030T220000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Mexico City Grand Prix, which takes place over 71 laps of the 4.304-kilometre Autodromo Hermanos Rodriguez in Mexico City on Sunday, October 30.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Mexico City Grand Prix schedule to your mobile device.
+LOCATION:Autódromo Hermanos Rodríguez
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Gran Premio De La Ciudad De México 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:af5810a0-d51d-420e-bfc0-6237e96a9dae
+DTSTART:20221029T200000
+DTEND:20221029T210000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Mexico City Grand Prix, which takes place over 71 laps of the 4.304-kilometre Autodromo Hermanos Rodriguez in Mexico City on Sunday, October 30.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Mexico City Grand Prix schedule to your mobile device.
+LOCATION:Autódromo Hermanos Rodríguez
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Gran Premio De La Ciudad De México 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:63a68faa-4cd8-4cb6-8d75-a0fcbb4ff6ac
+DTSTART:20221029T170000
+DTEND:20221029T180000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Mexico City Grand Prix, which takes place over 71 laps of the 4.304-kilometre Autodromo Hermanos Rodriguez in Mexico City on Sunday, October 30.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Mexico City Grand Prix schedule to your mobile device.
+LOCATION:Autódromo Hermanos Rodríguez
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Gran Premio De La Ciudad De México 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e901b633-e9b9-4d0c-b38a-815926d085c7
+DTSTART:20221028T210000
+DTEND:20221028T220000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Mexico City Grand Prix, which takes place over 71 laps of the 4.304-kilometre Autodromo Hermanos Rodriguez in Mexico City on Sunday, October 30.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Mexico City Grand Prix schedule to your mobile device.
+LOCATION:Autódromo Hermanos Rodríguez
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Gran Premio De La Ciudad De México 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c87d070-dd00-4e6e-9ecb-49b8fb2e7e06
+DTSTART:20221028T180000
+DTEND:20221028T190000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Mexico City Grand Prix, which takes place over 71 laps of the 4.304-kilometre Autodromo Hermanos Rodriguez in Mexico City on Sunday, October 30.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Mexico City Grand Prix schedule to your mobile device.
+LOCATION:Autódromo Hermanos Rodríguez
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Gran Premio De La Ciudad De México 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7013f7bf-64c5-43a7-ab97-1de9fc545501
+DTSTART:20220724T130000
+DTEND:20220724T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 French Grand Prix, which takes place over 53 laps of the 5.842-kilometre Circuit Paul Ricard in Le Castellet on Sunday, July 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 French Grand Prix schedule to your mobile device.
+LOCATION:Circuit Paul Ricard
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Grand Prix De France 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f9882a6-9dcb-4fa1-878e-dcb05ff544dc
+DTSTART:20220723T140000
+DTEND:20220723T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 French Grand Prix, which takes place over 53 laps of the 5.842-kilometre Circuit Paul Ricard in Le Castellet on Sunday, July 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 French Grand Prix schedule to your mobile device.
+LOCATION:Circuit Paul Ricard
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Grand Prix De France 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0176b5eb-4c37-4bc2-bf6c-36d6e6b0e20c
+DTSTART:20220723T110000
+DTEND:20220723T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 French Grand Prix, which takes place over 53 laps of the 5.842-kilometre Circuit Paul Ricard in Le Castellet on Sunday, July 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 French Grand Prix schedule to your mobile device.
+LOCATION:Circuit Paul Ricard
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Grand Prix De France 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1f9a57-e077-4875-aabc-b500bf71b393
+DTSTART:20220722T150000
+DTEND:20220722T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 French Grand Prix, which takes place over 53 laps of the 5.842-kilometre Circuit Paul Ricard in Le Castellet on Sunday, July 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 French Grand Prix schedule to your mobile device.
+LOCATION:Circuit Paul Ricard
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Grand Prix De France 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8618675-5c1c-461d-a23f-a4af36837a68
+DTSTART:20220722T120000
+DTEND:20220722T130000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 French Grand Prix, which takes place over 53 laps of the 5.842-kilometre Circuit Paul Ricard in Le Castellet on Sunday, July 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 French Grand Prix schedule to your mobile device.
+LOCATION:Circuit Paul Ricard
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Grand Prix De France 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2a5299-2cd3-406a-806c-7daaf4f72cb8
+DTSTART:20220904T130000
+DTEND:20220904T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Dutch Grand Prix, which takes place at Zandvoort on Sunday, September 4.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Dutch Grand Prix schedule to your mobile device.
+LOCATION:Circuit Zandvoort
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Heineken Dutch Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a5dd7c-f1c2-49f2-861b-1eb79ca2b841
+DTSTART:20220903T140000
+DTEND:20220903T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Dutch Grand Prix, which takes place at Zandvoort on Sunday, September 4.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Dutch Grand Prix schedule to your mobile device.
+LOCATION:Circuit Zandvoort
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Heineken Dutch Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9a315b-2d23-4667-b56f-39ef0118225e
+DTSTART:20220903T110000
+DTEND:20220903T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Dutch Grand Prix, which takes place at Zandvoort on Sunday, September 4.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Dutch Grand Prix schedule to your mobile device.
+LOCATION:Circuit Zandvoort
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Heineken Dutch Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:598f8ca3-fb58-449c-8c67-abc22d7c967f
+DTSTART:20220902T150000
+DTEND:20220902T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Dutch Grand Prix, which takes place at Zandvoort on Sunday, September 4.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Dutch Grand Prix schedule to your mobile device.
+LOCATION:Circuit Zandvoort
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Heineken Dutch Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:943567a9-810d-409e-9a84-5f64666b5e6f
+DTSTART:20220902T120000
+DTEND:20220902T130000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Dutch Grand Prix, which takes place at Zandvoort on Sunday, September 4.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Dutch Grand Prix schedule to your mobile device.
+LOCATION:Circuit Zandvoort
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Heineken Dutch Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:791fd02f-201c-40b9-8bec-e3ea9cdc6525
+DTSTART:20220731T130000
+DTEND:20220731T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2021 Hungarian Grand Prix, which takes place over 70 laps of the 4.381-kilometre Hungaroring in Budapest on Sunday, July 31.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Hungarian Grand Prix schedule to your mobile device.
+LOCATION:Hungaroring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Magyar Nagydíj 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:176d7827-8a22-4bbf-a184-770cc8cb780e
+DTSTART:20220730T140000
+DTEND:20220730T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2021 Hungarian Grand Prix, which takes place over 70 laps of the 4.381-kilometre Hungaroring in Budapest on Sunday, July 31.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Hungarian Grand Prix schedule to your mobile device.
+LOCATION:Hungaroring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Magyar Nagydíj 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf3bc889-4e46-4a26-9db0-a8ed69c37e9e
+DTSTART:20220730T110000
+DTEND:20220730T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2021 Hungarian Grand Prix, which takes place over 70 laps of the 4.381-kilometre Hungaroring in Budapest on Sunday, July 31.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Hungarian Grand Prix schedule to your mobile device.
+LOCATION:Hungaroring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Magyar Nagydíj 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a6d648-0120-4f43-b0e9-a7a300543690
+DTSTART:20220729T150000
+DTEND:20220729T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2021 Hungarian Grand Prix, which takes place over 70 laps of the 4.381-kilometre Hungaroring in Budapest on Sunday, July 31.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Hungarian Grand Prix schedule to your mobile device.
+LOCATION:Hungaroring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Magyar Nagydíj 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:563cea69-7d29-4916-97c9-a5199e1532d2
+DTSTART:20220729T120000
+DTEND:20220729T130000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2021 Hungarian Grand Prix, which takes place over 70 laps of the 4.381-kilometre Hungaroring in Budapest on Sunday, July 31.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Hungarian Grand Prix schedule to your mobile device.
+LOCATION:Hungaroring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Magyar Nagydíj 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e94fb6a-a2e0-4700-abb9-5cdd53be2cd3
+DTSTART:20221009T050000
+DTEND:20221009T070000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Japanese Grand Prix, which takes place over 53 laps of the 5.807-kilometre Suzuka International Racing Course on Sunday, October 9.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Japanese Grand Prix schedule to your mobile device.
+LOCATION:Suzuka International Racing Course
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Japanese Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d860c4-1ed9-45dd-83a8-b08f9972f7a8
+DTSTART:20221008T070000
+DTEND:20221008T080000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Japanese Grand Prix, which takes place over 53 laps of the 5.807-kilometre Suzuka International Racing Course on Sunday, October 9.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Japanese Grand Prix schedule to your mobile device.
+LOCATION:Suzuka International Racing Course
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Japanese Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef69c551-981c-436a-bd9c-c860c04269e4
+DTSTART:20221008T040000
+DTEND:20221008T050000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Japanese Grand Prix, which takes place over 53 laps of the 5.807-kilometre Suzuka International Racing Course on Sunday, October 9.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Japanese Grand Prix schedule to your mobile device.
+LOCATION:Suzuka International Racing Course
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Japanese Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c13c3690-39a1-4b4d-90c6-f53009672917
+DTSTART:20221007T070000
+DTEND:20221007T080000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Japanese Grand Prix, which takes place over 53 laps of the 5.807-kilometre Suzuka International Racing Course on Sunday, October 9.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Japanese Grand Prix schedule to your mobile device.
+LOCATION:Suzuka International Racing Course
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Japanese Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ecb368f-0645-4067-8e68-8c34df7cc308
+DTSTART:20221007T040000
+DTEND:20221007T050000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Japanese Grand Prix, which takes place over 53 laps of the 5.807-kilometre Suzuka International Racing Course on Sunday, October 9.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Japanese Grand Prix schedule to your mobile device.
+LOCATION:Suzuka International Racing Course
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Japanese Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff570fc1-ef9a-4b52-acd4-6a0db72cde47
+DTSTART:20220703T140000
+DTEND:20220703T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 British Grand Prix, which takes place over 52 laps of the 5.891-kilometre Silverstone Circuit on Sunday, July 3.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 British Grand Prix schedule to your mobile device.
+LOCATION:Silverstone Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 British Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3d4aafd-d748-48b8-b0e7-9545ee610f9a
+DTSTART:20220702T140000
+DTEND:20220702T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 British Grand Prix, which takes place over 52 laps of the 5.891-kilometre Silverstone Circuit on Sunday, July 3.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 British Grand Prix schedule to your mobile device.
+LOCATION:Silverstone Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 British Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:722e6bfb-f643-4bfd-b8d7-0d0892fa024e
+DTSTART:20220702T110000
+DTEND:20220702T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 British Grand Prix, which takes place over 52 laps of the 5.891-kilometre Silverstone Circuit on Sunday, July 3.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 British Grand Prix schedule to your mobile device.
+LOCATION:Silverstone Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 British Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:324e7293-ad0d-4a9a-8772-1d8e541ad888
+DTSTART:20220701T150000
+DTEND:20220701T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 British Grand Prix, which takes place over 52 laps of the 5.891-kilometre Silverstone Circuit on Sunday, July 3.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 British Grand Prix schedule to your mobile device.
+LOCATION:Silverstone Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 British Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:01384c36-4329-4fb8-867a-3054c874f37c
+DTSTART:20220701T120000
+DTEND:20220701T130000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 British Grand Prix, which takes place over 52 laps of the 5.891-kilometre Silverstone Circuit on Sunday, July 3.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 British Grand Prix schedule to your mobile device.
+LOCATION:Silverstone Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 British Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:29c32288-3fab-4b2a-8aeb-d1ebbc75ceb5
+DTSTART:20220710T130000
+DTEND:20220710T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Austrian Grand Prix, which takes place over 71 laps of the 4.318-kilometre Red Bull Ring in Spielberg on Sunday, July 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Austrian Grand Prix schedule to your mobile device.
+LOCATION:Red Bull Ring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Grosser Preis Von Österreich 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:461952ed-97bd-48fa-bb79-92069d932b4c
+DTSTART:20220709T143000
+DTEND:20220709T153000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Austrian Grand Prix, which takes place over 71 laps of the 4.318-kilometre Red Bull Ring in Spielberg on Sunday, July 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Austrian Grand Prix schedule to your mobile device.
+LOCATION:Red Bull Ring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Sprint) - Formula 1 Grosser Preis Von Österreich 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6df406f4-8bee-4102-97cf-8a8c109c86b1
+DTSTART:20220709T103000
+DTEND:20220709T113000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Austrian Grand Prix, which takes place over 71 laps of the 4.318-kilometre Red Bull Ring in Spielberg on Sunday, July 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Austrian Grand Prix schedule to your mobile device.
+LOCATION:Red Bull Ring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Grosser Preis Von Österreich 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f3a68ce-69f4-4546-a3ef-ca54f974167b
+DTSTART:20220708T150000
+DTEND:20220708T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Austrian Grand Prix, which takes place over 71 laps of the 4.318-kilometre Red Bull Ring in Spielberg on Sunday, July 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Austrian Grand Prix schedule to your mobile device.
+LOCATION:Red Bull Ring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Grosser Preis Von Österreich 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae128cd9-a2f1-432e-8860-cbc8d43d9f02
+DTSTART:20220708T113000
+DTEND:20220708T123000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Austrian Grand Prix, which takes place over 71 laps of the 4.318-kilometre Red Bull Ring in Spielberg on Sunday, July 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Austrian Grand Prix schedule to your mobile device.
+LOCATION:Red Bull Ring
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Grosser Preis Von Österreich 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05f3eada-3f85-4d33-a3bc-de7fb5b049e6
+DTSTART:20220612T110000
+DTEND:20220612T130000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Azerbaijan Grand Prix, which takes place over 51 laps of the 6.003-kilometre Baku City Circuit on Sunday, June 12.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Azerbaijan Grand Prix schedule to your mobile device.
+LOCATION:Baku City Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Azerbaijan Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c359e97e-bff3-461a-8415-5d2b741f19e3
+DTSTART:20220611T140000
+DTEND:20220611T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Azerbaijan Grand Prix, which takes place over 51 laps of the 6.003-kilometre Baku City Circuit on Sunday, June 12.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Azerbaijan Grand Prix schedule to your mobile device.
+LOCATION:Baku City Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Azerbaijan Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:71138689-73ad-4ac4-8bdb-cb4967c5025f
+DTSTART:20220611T110000
+DTEND:20220611T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Azerbaijan Grand Prix, which takes place over 51 laps of the 6.003-kilometre Baku City Circuit on Sunday, June 12.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Azerbaijan Grand Prix schedule to your mobile device.
+LOCATION:Baku City Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Azerbaijan Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a736cbf-ecd3-45b3-b946-7b2553cf6ebc
+DTSTART:20220610T140000
+DTEND:20220610T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Azerbaijan Grand Prix, which takes place over 51 laps of the 6.003-kilometre Baku City Circuit on Sunday, June 12.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Azerbaijan Grand Prix schedule to your mobile device.
+LOCATION:Baku City Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Azerbaijan Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d8bf312-5fe5-44df-a4ba-7693694a6099
+DTSTART:20220610T110000
+DTEND:20220610T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Azerbaijan Grand Prix, which takes place over 51 laps of the 6.003-kilometre Baku City Circuit on Sunday, June 12.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Azerbaijan Grand Prix schedule to your mobile device.
+LOCATION:Baku City Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Azerbaijan Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c6ee1d-a8f9-4140-94b0-e8bc84d6b6d6
+DTSTART:20220522T130000
+DTEND:20220522T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Spanish Grand Prix, which takes place over 66 laps of the 4.675-kilometre Circuit de Barcelona-Catalunya on Sunday, May 22.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Spanish Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Pirelli Gran Premio De España 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a16ee94-463d-4eaf-bc86-df797236b813
+DTSTART:20220521T140000
+DTEND:20220521T150000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Spanish Grand Prix, which takes place over 66 laps of the 4.675-kilometre Circuit de Barcelona-Catalunya on Sunday, May 22.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Spanish Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Pirelli Gran Premio De España 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:77ca1626-0826-49e0-aa76-5c678753599c
+DTSTART:20220521T110000
+DTEND:20220521T120000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Spanish Grand Prix, which takes place over 66 laps of the 4.675-kilometre Circuit de Barcelona-Catalunya on Sunday, May 22.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Spanish Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Pirelli Gran Premio De España 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:47cc4f33-4b09-4e55-a176-5fcc1c651ab1
+DTSTART:20220520T150000
+DTEND:20220520T160000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Spanish Grand Prix, which takes place over 66 laps of the 4.675-kilometre Circuit de Barcelona-Catalunya on Sunday, May 22.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Spanish Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Pirelli Gran Premio De España 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5754a5a1-2bbf-463f-93c9-a65ad170f2f1
+DTSTART:20220520T120000
+DTEND:20220520T130000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Spanish Grand Prix, which takes place over 66 laps of the 4.675-kilometre Circuit de Barcelona-Catalunya on Sunday, May 22.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Spanish Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Barcelona-Catalunya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Pirelli Gran Premio De España 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b349a2-c54a-4009-9551-e203b74ecdd3
+DTSTART:20220619T180000
+DTEND:20220619T200000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Canadian Grand Prix, which takes place over 70 laps of the 4.361-kilometre Circuit Gilles-Villeneuve in Montreal on Sunday, June 19.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Canadian Grand Prix schedule to your mobile device.
+LOCATION:Circuit Gilles-Villeneuve
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Grand Prix Du Canada 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8bd1639a-76b4-4080-aa17-6107c4e0b047
+DTSTART:20220618T200000
+DTEND:20220618T210000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Canadian Grand Prix, which takes place over 70 laps of the 4.361-kilometre Circuit Gilles-Villeneuve in Montreal on Sunday, June 19.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Canadian Grand Prix schedule to your mobile device.
+LOCATION:Circuit Gilles-Villeneuve
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Grand Prix Du Canada 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:44a28cbd-6b4d-4e81-9a6f-c62590a35494
+DTSTART:20220618T170000
+DTEND:20220618T180000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Canadian Grand Prix, which takes place over 70 laps of the 4.361-kilometre Circuit Gilles-Villeneuve in Montreal on Sunday, June 19.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Canadian Grand Prix schedule to your mobile device.
+LOCATION:Circuit Gilles-Villeneuve
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Grand Prix Du Canada 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:32036ff2-54bf-4d8a-a9b4-1b3ca6669162
+DTSTART:20220617T210000
+DTEND:20220617T220000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Canadian Grand Prix, which takes place over 70 laps of the 4.361-kilometre Circuit Gilles-Villeneuve in Montreal on Sunday, June 19.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Canadian Grand Prix schedule to your mobile device.
+LOCATION:Circuit Gilles-Villeneuve
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Grand Prix Du Canada 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:87c3572d-12c4-4d87-b2e0-e10bf8e26347
+DTSTART:20220617T180000
+DTEND:20220617T190000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Canadian Grand Prix, which takes place over 70 laps of the 4.361-kilometre Circuit Gilles-Villeneuve in Montreal on Sunday, June 19.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Canadian Grand Prix schedule to your mobile device.
+LOCATION:Circuit Gilles-Villeneuve
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Grand Prix Du Canada 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eac58814-21b4-4a83-bdb1-48c114aa723e
+DTSTART:20220410T050000
+DTEND:20220410T070000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Australian Grand Prix, which takes place at the 5.278-kilometre Melbourne Grand Prix Circuit on Sunday, April 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Australian Grand Prix schedule to your mobile device.
+LOCATION:Albert Park Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Heineken Australian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8348151-e945-409f-a35b-c3cc7f2549af
+DTSTART:20220409T060000
+DTEND:20220409T070000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Australian Grand Prix, which takes place at the 5.278-kilometre Melbourne Grand Prix Circuit on Sunday, April 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Australian Grand Prix schedule to your mobile device.
+LOCATION:Albert Park Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Heineken Australian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ebbc5be6-0d86-4225-b875-49de00a18db1
+DTSTART:20220409T030000
+DTEND:20220409T040000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Australian Grand Prix, which takes place at the 5.278-kilometre Melbourne Grand Prix Circuit on Sunday, April 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Australian Grand Prix schedule to your mobile device.
+LOCATION:Albert Park Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Heineken Australian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1caa42-31c0-42fb-af55-f0d3fbe976d3
+DTSTART:20220408T060000
+DTEND:20220408T070000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Australian Grand Prix, which takes place at the 5.278-kilometre Melbourne Grand Prix Circuit on Sunday, April 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Australian Grand Prix schedule to your mobile device.
+LOCATION:Albert Park Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Heineken Australian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eaaf312e-799f-425b-96c9-5e01582f7aa5
+DTSTART:20220408T030000
+DTEND:20220408T040000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Australian Grand Prix, which takes place at the 5.278-kilometre Melbourne Grand Prix Circuit on Sunday, April 10.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Australian Grand Prix schedule to your mobile device.
+LOCATION:Albert Park Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Heineken Australian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:350c8aa9-d4d1-4ccf-91fb-1841830e5551
+DTSTART:20220508T193000
+DTEND:20220508T213000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Miami Grand Prix, which takes place at the Miami International Autodrome in Florida, USA, on Sunday, May 8*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2021 Miami Grand Prix schedule to your mobile device.*Subject to circuit homologation
+LOCATION:Miami International Autodrome
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Crypto.Com Miami Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:be2d01de-f343-4cb2-8a2e-8a89b37362bc
+DTSTART:20220507T200000
+DTEND:20220507T210000
+CREATED:20220421T082419
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Miami Grand Prix, which takes place at the Miami International Autodrome in Florida, USA, on Sunday, May 8*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2021 Miami Grand Prix schedule to your mobile device.*Subject to circuit homologation
+LOCATION:Miami International Autodrome
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Crypto.Com Miami Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d79cfc16-4e5f-4f6c-9968-d5769fc2fbd7
+DTSTART:20220507T170000
+DTEND:20220507T180000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Miami Grand Prix, which takes place at the Miami International Autodrome in Florida, USA, on Sunday, May 8*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2021 Miami Grand Prix schedule to your mobile device.*Subject to circuit homologation
+LOCATION:Miami International Autodrome
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Crypto.Com Miami Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:65f7ea2a-8b3d-434c-9ce3-e961bbc6c45e
+DTSTART:20220506T213000
+DTEND:20220506T223000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Miami Grand Prix, which takes place at the Miami International Autodrome in Florida, USA, on Sunday, May 8*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2021 Miami Grand Prix schedule to your mobile device.*Subject to circuit homologation
+LOCATION:Miami International Autodrome
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Crypto.Com Miami Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:798f3a91-a8a6-4b3a-9b6c-f5aa66a0a063
+DTSTART:20220506T183000
+DTEND:20220506T193000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Miami Grand Prix, which takes place at the Miami International Autodrome in Florida, USA, on Sunday, May 8*.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2021 Miami Grand Prix schedule to your mobile device.*Subject to circuit homologation
+LOCATION:Miami International Autodrome
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Crypto.Com Miami Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4aeffa3f-4cad-4a14-9374-5566dde72ae1
+DTSTART:20220424T130000
+DTEND:20220424T150000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Emilia Romagna Grand Prix, which takes place over 63 laps of the 4.909-kilometre Autodromo Enzo e Dino Ferrari, commonly known as Imola and former home of the San Marino GP, on Sunday, April 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the schedule for the 2022 Emilia Romagna Grand Prix to your mobile device.
+LOCATION:Autodromo Enzo e Dino Ferrari
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Rolex Gran Premio Del Made In Italy E Dell'Emilia-Romagna 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:18912511-e4fa-44a3-aeb5-cda97beaac61
+DTSTART:20220423T143000
+DTEND:20220423T153000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Emilia Romagna Grand Prix, which takes place over 63 laps of the 4.909-kilometre Autodromo Enzo e Dino Ferrari, commonly known as Imola and former home of the San Marino GP, on Sunday, April 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the schedule for the 2022 Emilia Romagna Grand Prix to your mobile device.
+LOCATION:Autodromo Enzo e Dino Ferrari
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Sprint) - Formula 1 Rolex Gran Premio Del Made In Italy E Dell'Emilia-Romagna 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:592c45d2-3d4d-4b90-a58a-8740907060bb
+DTSTART:20220423T103000
+DTEND:20220423T113000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Emilia Romagna Grand Prix, which takes place over 63 laps of the 4.909-kilometre Autodromo Enzo e Dino Ferrari, commonly known as Imola and former home of the San Marino GP, on Sunday, April 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the schedule for the 2022 Emilia Romagna Grand Prix to your mobile device.
+LOCATION:Autodromo Enzo e Dino Ferrari
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Rolex Gran Premio Del Made In Italy E Dell'Emilia-Romagna 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c85c388f-619d-4dd9-9a17-0199eccb8391
+DTSTART:20220422T150000
+DTEND:20220422T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Emilia Romagna Grand Prix, which takes place over 63 laps of the 4.909-kilometre Autodromo Enzo e Dino Ferrari, commonly known as Imola and former home of the San Marino GP, on Sunday, April 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the schedule for the 2022 Emilia Romagna Grand Prix to your mobile device.
+LOCATION:Autodromo Enzo e Dino Ferrari
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Rolex Gran Premio Del Made In Italy E Dell'Emilia-Romagna 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:32df99a1-b6ea-4639-9a2e-fa82f2e4d8cb
+DTSTART:20220422T113000
+DTEND:20220422T123000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Emilia Romagna Grand Prix, which takes place over 63 laps of the 4.909-kilometre Autodromo Enzo e Dino Ferrari, commonly known as Imola and former home of the San Marino GP, on Sunday, April 24.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the schedule for the 2022 Emilia Romagna Grand Prix to your mobile device.
+LOCATION:Autodromo Enzo e Dino Ferrari
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Rolex Gran Premio Del Made In Italy E Dell'Emilia-Romagna 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb5401d-67a5-450c-b717-5f25973cb33f
+DTSTART:20220327T170000
+DTEND:20220327T190000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Saudi Arabia Grand Prix, which takes place at the brand-new Jeddah Corniche Circuit on Sunday, March 27.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Saudi Arabia Grand Prix schedule to your mobile device.
+LOCATION:Jeddah Corniche Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Stc Saudi Arabian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:88e02761-10c3-4757-89ac-5a669cb39d7e
+DTSTART:20220326T170000
+DTEND:20220326T180000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Saudi Arabia Grand Prix, which takes place at the brand-new Jeddah Corniche Circuit on Sunday, March 27.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Saudi Arabia Grand Prix schedule to your mobile device.
+LOCATION:Jeddah Corniche Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Stc Saudi Arabian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:801e60ac-ec9b-49d7-9a7e-aca961d0818e
+DTSTART:20220326T140000
+DTEND:20220326T150000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Saudi Arabia Grand Prix, which takes place at the brand-new Jeddah Corniche Circuit on Sunday, March 27.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Saudi Arabia Grand Prix schedule to your mobile device.
+LOCATION:Jeddah Corniche Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Stc Saudi Arabian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e08ddb5-4b1e-480e-871f-4617529b8f3a
+DTSTART:20220325T170000
+DTEND:20220325T180000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Saudi Arabia Grand Prix, which takes place at the brand-new Jeddah Corniche Circuit on Sunday, March 27.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Saudi Arabia Grand Prix schedule to your mobile device.
+LOCATION:Jeddah Corniche Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Stc Saudi Arabian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5de686-83c7-4051-ae58-dbb878613edb
+DTSTART:20220325T140000
+DTEND:20220325T150000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Saudi Arabia Grand Prix, which takes place at the brand-new Jeddah Corniche Circuit on Sunday, March 27.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Saudi Arabia Grand Prix schedule to your mobile device.
+LOCATION:Jeddah Corniche Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Stc Saudi Arabian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:718b662e-c802-4cee-afd4-dd0b13f46b48
+DTSTART:20220529T130000
+DTEND:20220529T150000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Monaco Grand Prix, which takes place over 78 laps of the 3.337-kilometre Circuit de Monaco in Monte Carlo on Sunday, May 29.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Monaco Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Monaco
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Grand Prix De Monaco 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:06dc32ed-adcf-40e6-9a8f-d49379f9b842
+DTSTART:20220528T140000
+DTEND:20220528T150000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Monaco Grand Prix, which takes place over 78 laps of the 3.337-kilometre Circuit de Monaco in Monte Carlo on Sunday, May 29.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Monaco Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Monaco
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Grand Prix De Monaco 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0647ce6d-ec87-471b-93be-b99305510723
+DTSTART:20220528T110000
+DTEND:20220528T120000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Monaco Grand Prix, which takes place over 78 laps of the 3.337-kilometre Circuit de Monaco in Monte Carlo on Sunday, May 29.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Monaco Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Monaco
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Grand Prix De Monaco 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8973f6ea-2b8d-4ae4-bf5b-83c18bcd1101
+DTSTART:20220527T150000
+DTEND:20220527T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Monaco Grand Prix, which takes place over 78 laps of the 3.337-kilometre Circuit de Monaco in Monte Carlo on Sunday, May 29.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Monaco Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Monaco
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Grand Prix De Monaco 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a73de6c-dced-4931-9c1c-c00d2821e61c
+DTSTART:20220527T120000
+DTEND:20220527T130000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Monaco Grand Prix, which takes place over 78 laps of the 3.337-kilometre Circuit de Monaco in Monte Carlo on Sunday, May 29.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Monaco Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Monaco
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Grand Prix De Monaco 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d808774-254e-47bd-aad3-303ad847d51d
+DTSTART:20220312T070000
+DTEND:20220312T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about 2022's official F1 pre-season testing session, which takes place at the 5.412-kilometre Bahrain International Circuit - home of the Bahrain Grand Prix - in Sakhir over three days on March 10-12.Using the links above you can find the full test schedule, plus the latest news headlines, circuit information and testing results.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Aramco Pre-Season Testing 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1506930-aca1-499e-b683-cc8e457f8788
+DTSTART:20220311T070000
+DTEND:20220311T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about 2022's official F1 pre-season testing session, which takes place at the 5.412-kilometre Bahrain International Circuit - home of the Bahrain Grand Prix - in Sakhir over three days on March 10-12.Using the links above you can find the full test schedule, plus the latest news headlines, circuit information and testing results.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Aramco Pre-Season Testing 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7808736d-34b6-430b-9146-4521d5a137e6
+DTSTART:20220310T070000
+DTEND:20220310T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about 2022's official F1 pre-season testing session, which takes place at the 5.412-kilometre Bahrain International Circuit - home of the Bahrain Grand Prix - in Sakhir over three days on March 10-12.Using the links above you can find the full test schedule, plus the latest news headlines, circuit information and testing results.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Aramco Pre-Season Testing 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:90b240fd-20e7-43e6-b154-8dfaccd8005a
+DTSTART:20220320T150000
+DTEND:20220320T170000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Bahrain Grand Prix, which takes place over 57 laps of the 5.412-kilometre Bahrain International Circuit in Sakhir on Sunday, March 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Bahrain Grand Prix schedule to your mobile device.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Gulf Air Bahrain Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cad6c5e7-61e9-42be-bcf9-00f4bdce11d7
+DTSTART:20220319T150000
+DTEND:20220319T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Bahrain Grand Prix, which takes place over 57 laps of the 5.412-kilometre Bahrain International Circuit in Sakhir on Sunday, March 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Bahrain Grand Prix schedule to your mobile device.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Gulf Air Bahrain Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc086714-ad4b-47dc-8151-46eefb78d139
+DTSTART:20220319T120000
+DTEND:20220319T130000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Bahrain Grand Prix, which takes place over 57 laps of the 5.412-kilometre Bahrain International Circuit in Sakhir on Sunday, March 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Bahrain Grand Prix schedule to your mobile device.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Gulf Air Bahrain Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:46e9ae8d-bcfb-4e2c-8c1e-ab642eeb1840
+DTSTART:20220318T150000
+DTEND:20220318T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Bahrain Grand Prix, which takes place over 57 laps of the 5.412-kilometre Bahrain International Circuit in Sakhir on Sunday, March 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Bahrain Grand Prix schedule to your mobile device.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Gulf Air Bahrain Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e85d738b-85ed-403d-842f-ab26a6b54abe
+DTSTART:20220318T120000
+DTEND:20220318T130000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Bahrain Grand Prix, which takes place over 57 laps of the 5.412-kilometre Bahrain International Circuit in Sakhir on Sunday, March 20.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Bahrain Grand Prix schedule to your mobile device.
+LOCATION:Bahrain International Circuit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Gulf Air Bahrain Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:718272aa-9452-4f06-a320-cefa9dbb1ccc
+DTSTART:20220828T130000
+DTEND:20220828T150000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Belgian Grand Prix, which takes place over 44 laps of the 7.004-kilometre Circuit de Spa-Francorchamps on Sunday, August 28.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Belgian Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Spa-Francorchamps
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Race) - Formula 1 Rolex Belgian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d49bdd-9949-4948-8e8b-109f2ab19b76
+DTSTART:20220827T140000
+DTEND:20220827T150000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Belgian Grand Prix, which takes place over 44 laps of the 7.004-kilometre Circuit de Spa-Francorchamps on Sunday, August 28.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Belgian Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Spa-Francorchamps
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Qualifying) - Formula 1 Rolex Belgian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7751833c-a3b5-49e1-8fbf-5d11278c7eec
+DTSTART:20220827T110000
+DTEND:20220827T120000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Belgian Grand Prix, which takes place over 44 laps of the 7.004-kilometre Circuit de Spa-Francorchamps on Sunday, August 28.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Belgian Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Spa-Francorchamps
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 3) - Formula 1 Rolex Belgian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:92bcbb41-79d8-4e12-809f-9ec0d6e31cd1
+DTSTART:20220826T150000
+DTEND:20220826T160000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Belgian Grand Prix, which takes place over 44 laps of the 7.004-kilometre Circuit de Spa-Francorchamps on Sunday, August 28.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Belgian Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Spa-Francorchamps
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 2) - Formula 1 Rolex Belgian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b638dd7-a7d3-4c85-b9e8-43fdac330a27
+DTSTART:20220826T120000
+DTEND:20220826T130000
+CREATED:20220421T082420
+DESCRIPTION:Get up to speed with everything you need to know about the 2022 Belgian Grand Prix, which takes place over 44 laps of the 7.004-kilometre Circuit de Spa-Francorchamps on Sunday, August 28.Using the links above you can find the full weekend schedule, including details of practice and qualifying sessions, support races, press conferences and special events, plus the latest news headlines, circuit information and F1 race results.You can also find broadcast information, with details of how and where you can watch the race on TV, or download the 2022 Belgian Grand Prix schedule to your mobile device.
+LOCATION:Circuit de Spa-Francorchamps
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(Practice 1) - Formula 1 Rolex Belgian Grand Prix 2022
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
